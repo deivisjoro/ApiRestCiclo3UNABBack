@@ -1,0 +1,11 @@
+co\deivisjoro\apirestciclo3unabmaven\recurso\EquipoRecurso.class
+co\deivisjoro\apirestciclo3unabmaven\modelo\dao\PartidoDAO.class
+co\deivisjoro\apirestciclo3unabmaven\modelo\dao\UsuarioDAO.class
+co\deivisjoro\apirestciclo3unabmaven\modelo\dao\EquipoDAO.class
+co\deivisjoro\apirestciclo3unabmaven\Aplicacion.class
+co\deivisjoro\apirestciclo3unabmaven\bd\Conexion.class
+co\deivisjoro\apirestciclo3unabmaven\modelo\entidad\Equipo.class
+co\deivisjoro\apirestciclo3unabmaven\recurso\PartidoRecurso.class
+co\deivisjoro\apirestciclo3unabmaven\modelo\entidad\Partido.class
+co\deivisjoro\apirestciclo3unabmaven\recurso\UsuarioRecurso.class
+co\deivisjoro\apirestciclo3unabmaven\modelo\entidad\Usuario.class
